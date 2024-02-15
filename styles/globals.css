@@ -10,6 +10,9 @@ body {
   min-inline-size: 375px;
   max-inline-size: 1024px;
   margin: 0 auto;
+  font-family: var(--font-family);
+  line-height: 1.3em;
+  font-size: 18px;
 }
 
 h1,
