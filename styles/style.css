@@ -1,5 +1,6 @@
 .page {
     background-image: var(--background-image);
+    background-color: var(--background-color);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;

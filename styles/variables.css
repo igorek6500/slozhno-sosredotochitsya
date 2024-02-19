@@ -6,6 +6,7 @@
     --header-size-mobile: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
     --decoration-color: rgba(255, 0, 112, 1);
     --background-image: url("../images/cover-image-dark.png");
+    --background-color: rgba(0, 0, 40, 1);
     --border-button-color: rgba(255, 0, 112, 0.4);
     --font-button-color: rgba(255, 0, 112, 1);
     --header-text-color: rgba(219, 0, 255, 1);
