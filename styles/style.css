@@ -34,6 +34,7 @@
     line-height: var(--line-height);
     letter-spacing: 0;
     text-align: left;
+    color: var(--font-text-color);
 }
 
 .title-decorations {
@@ -84,10 +85,6 @@
 .header__theme-menu-button_active {
     pointer-events: none;
     border: 1px solid var(--decoration-color);
-}
-
-.header__title {
-    color: var(--font-text-color);
 }
 
 .header__lighting {
