@@ -291,8 +291,16 @@
         flex-direction: column;
     }
 
+    .content {
+        padding-top: 5.81vh;
+    }
+
     .content__block {
         grid-template-columns: 30.73vw 1fr;
+    }
+
+    .content__block:last-child {
+        padding-bottom: 5.81vh;
     }
 
     .content__block_header {
