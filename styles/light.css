@@ -9,7 +9,7 @@
     --font-text-color: rgba(53, 52, 48, 1);
     --font-article-header-color: rgba(53, 52, 48, 1);
     --article-text-color: rgba(53, 52, 48, 1);
-    --light-disp: none;
+    --lighting-display-type: none;
 }
 
 @media (prefers-color-scheme: light) {
@@ -24,6 +24,6 @@
         --font-text-color: rgba(53, 52, 48, 1);
         --font-article-header-color: rgba(53, 52, 48, 1);
         --article-text-color: rgba(53, 52, 48, 1);
-        --light-disp: none;
+        --lighting-display-type: none;
     }
 }

@@ -9,5 +9,5 @@
     --font-text-color: rgba(0, 0, 40, 1);
     --font-article-header-color: rgba(255, 0, 112, 1);
     --article-text-color: rgba(241, 178, 206, 1);
-    --light-disp: flex;
+    --lighting-display-type: flex;
 }

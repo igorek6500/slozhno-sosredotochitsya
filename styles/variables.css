@@ -1,6 +1,6 @@
 :root {
     --font-family: IBM Plex Mono, sans;
-    --line-height: 1.3em;
+    --text-line-height: 1.3em;
     --padding: 20px;
     --header-size-desktop: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
     --header-size-mobile: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
@@ -14,5 +14,5 @@
     --font-text-color: rgba(0, 0, 40, 1);
     --font-article-header-color: rgba(255, 0, 112, 1);
     --article-text-color: rgba(241, 178, 206, 1);
-    --light-disp: flex;
+    --lighting-display-type: flex;
 }
