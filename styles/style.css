@@ -88,7 +88,7 @@
     cursor: pointer;
 }
 
-.header__theme-menu-button_active{
+.header__theme-menu-button_active {
     pointer-events: none;
     border: 1px solid var(--border-button-color);
 }
