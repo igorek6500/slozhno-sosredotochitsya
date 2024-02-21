@@ -2,7 +2,8 @@
     --decoration-color: rgba(255, 141, 203, 1);
     --background-image: url("../images/cover-image-light.png");
     --background-color: none;
-    --border-button-color: rgba(50, 49, 45, 0.4);
+    --border-button-color: rgba(50, 49, 45, 1);
+    --border-focus-button-color: rgba(50, 49, 45, 0.4);
     --font-button-color: rgba(53, 52, 48, 1);
     --header-text-color: rgba(255, 194, 230, 1);
     --header-shadow-color: rgba(255, 0, 112, 1);
@@ -17,7 +18,8 @@
         --decoration-color: rgba(255, 141, 203, 1);
         --background-image: url("../images/cover-image-light.png");
         --background-color: none;
-        --border-button-color: rgba(50, 49, 45, 0.4);
+        --border-button-color: rgba(50, 49, 45, 1);
+        --border-focus-button-color: rgba(50, 49, 45, 0.4);
         --font-button-color: rgba(53, 52, 48, 1);
         --header-text-color: rgba(255, 194, 230, 1);
         --header-shadow-color: rgba(255, 0, 112, 1);
